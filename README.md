@@ -1,214 +1,180 @@
-<div align="center">
-
 # 5NN599
 
-### 73 de 5NN599 📡
+> **73 de 5NN599** 📡  
+> Software · AI & Robotics · Amateur Radio · Signal Processing
+>
+> *Build software. Explore signals. Connect ideas.*
 
-**Software · AI & Robotics · Amateur Radio · Signal Processing**
-
-*Build software. Explore signals. Connect ideas.*
-
-<p>
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/AMATEUR%20RADIO-145DA0?style=for-the-badge" alt="Amateur Radio">
-  <img src="https://img.shields.io/badge/CW%20%2F%20DTMF-6A5ACD?style=for-the-badge" alt="CW and DTMF">
-</p>
-
-[English](#english) · [한국어](#korean)
-
-[Repositories](https://github.com/5NN599?tab=repositories) ·
-[GitHub Profile](https://github.com/5NN599) ·
-[Website](https://5nn599.github.io/)
-
-</div>
+[English](#english) · [한국어](#korean) · [Repositories](https://github.com/5NN599?tab=repositories) · [GitHub Profile](https://github.com/5NN599)
 
 ---
 
 <a id="english"></a>
 
-# English
+## 🇬🇧 English
 
-## 📡 The Story Behind 5NN599
+### 📡 Why 5NN599?
 
-The name **5NN599** is inspired by amateur-radio signal reports.
+The name brings together two familiar parts of amateur-radio CW culture:
 
-In Morse code (CW), **5NN** is a cut-number form of **599**: the letter `N` is used in place of the digit `9` to shorten transmission. My username brings the CW shorthand and the familiar written report together.
+- **5NN** is a commonly used cut-number form of **599** in Morse code contests. The digit `9` is sent as the shorter letter `N`.
+- **599** is an RST signal report: `R` for Readability, `S` for Signal Strength, and `T` for Tone. The `T` rating is used for CW reports; voice reports normally use `RS`.
 
-**RST** stands for **Readability, Signal Strength, and Tone**:
+| RST part | Value | Meaning |
+|:--:|:--:|:--|
+| **R — Readability** | **5** | Perfectly readable |
+| **S — Signal strength** | **9** | Extremely strong signal |
+| **T — Tone** | **9** | Perfect CW tone, with no trace of ripple or modulation |
 
-| Part | Score | Meaning |
-|:---:|:---:|:--|
-| **R** | **5** | Perfectly readable |
-| **S** | **9** | Extremely strong signal |
-| **T** | **9** | Perfect CW tone, with no trace of ripple or modulation |
+> In other words, `5NN` is the CW shorthand for sending `599`. It is a contest-style shorthand, not a separate signal-report scale.
 
-The tone rating (`T`) applies to CW reports. Voice contacts normally use an **RS** report, such as `59`.
+### 👋 About Me
 
-## 👋 About Me
+Hi! I'm **5NN599**. I enjoy exploring technology by building, testing, and improving practical projects.
 
-Hi! I'm **5NN599**.
-
-I'm an independent developer who enjoys turning ideas into practical software. My interests range from Windows applications and data compression to browser games, audio communication, robotics, and radio-related experiments.
+My interests include:
 
 - 💻 Software development and engineering experiments
-- 📻 Amateur-radio culture, Morse code (CW), and signal reports
+- 📻 Amateur radio, Morse code (CW), and radio communication
 - 🎚️ Audio processing, DTMF, and digital communication
-- 🤖 AI, robotics, and automation
-- ⚙️ Performance optimization, testing, and debugging
+- 🤖 Artificial intelligence, robotics, and automation
+- ⚙️ Performance optimization, debugging, and testing
 
-## 🚀 Featured Projects
+### 🚀 Projects
 
-| Project | What it does | Technology |
-|:--|:--|:--:|
-| [**HyperPack**](https://github.com/5NN599/HyperPack_windows) | Experimental Windows x64 lossless archiver. Explores the custom HPK4 format, streaming compression, and performance optimization. | `Go` |
-| [**PocketBox**](https://github.com/5NN599/PocketBox) | Windows utility that packages files and folders into a single `.pbox` container and opens it through the separately installed PocketBox Launcher. It is a packaging tool, not a security sandbox. | `Python` |
-| [**PyDTMF-ECC**](https://github.com/5NN599/PyDTMF-ECC) | Windows application for sending and receiving text or files through audio using DTMF, synchronization tones, CRC-16, and optional forward error correction. | `Python` |
-| [**emoji-rpg**](https://github.com/5NN599/emoji-rpg) | Browser-based RPG project. | `HTML` |
-| [**NEON-SWARM**](https://github.com/5NN599/NEON-SWARM) | Experimental web project. | `HTML` |
-| [**Personal Website**](https://github.com/5NN599/5NN599.github.io) | My website, published with GitHub Pages. | `HTML` |
+| Project | Overview |
+|:--|:--|
+| [**HyperPack**](https://github.com/5NN599/HyperPack_windows) | Experimental Windows x64 lossless archiver focused on streaming compression and a custom `.hpk` archive format. |
+| [**PocketBox**](https://github.com/5NN599/PocketBox) | Windows project. See its repository and Releases for the exact features, build instructions, and downloadable packages. |
+| [**PyDTMF-ECC**](https://github.com/5NN599/PyDTMF-ECC) | DTMF audio communication project, with work on synchronization, real-time decoding, and error-correction features. |
+| [**emoji-rpg**](https://github.com/5NN599/emoji-rpg) | Browser-based RPG project. |
+| [**NEON-SWARM**](https://github.com/5NN599/NEON-SWARM) | Experimental project — see the repository for its current description and status. |
+| [**Personal Website**](https://github.com/5NN599/5NN599.github.io) | Personal website published through GitHub Pages. |
 
-> These projects are continuously evolving. Check each repository for its current features, releases, and development status.
+<details>
+<summary><strong>🔎 Project and release notes</strong></summary>
 
-## 🧰 Technologies & Interests
+- Project features and development status can change. The repository README is the source of truth for each project's current behavior.
+- For PocketBox, check the **Releases** section for packaged downloads. The repository source and release packages may contain different files.
+- For build instructions, dependencies, licenses, and supported platforms, refer to each project's own documentation.
 
-<div align="center">
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+### 🧰 Technologies & Topics
 
-</div>
+`Python` · `Go` · `HTML` · `CSS` · `JavaScript` · `Git` · `Windows`
 
-- 🗜️ Data compression and custom archive formats
-- 📡 Amateur radio, RF, and radio communication
-- 📟 Morse code (CW), DTMF, and audio signal processing
-- 🤖 AI, robotics, and embedded systems
-- 🌐 Web applications and browser-based games
+**Topics I like exploring**
 
-## 📊 GitHub Stats
+- Data compression and archive formats
+- Amateur radio and RF communication
+- Morse code (CW), DTMF, and audio signal processing
+- AI, robotics, and embedded systems
+- Web applications and browser games
 
-<div align="center">
+### 📊 GitHub Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=5NN599&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5NN599&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages">
+I’m not embedding third-party statistics cards here because the external card images were not loading in the profile preview.
 
-<br>
+For contribution activity, language statistics, pinned repositories, and the latest public work, use the GitHub profile itself:
 
-<img src="https://streak-stats.demolab.com?user=5NN599&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+**[Open 5NN599's GitHub profile](https://github.com/5NN599)**
 
-</div>
+GitHub displays its own contribution calendar on the profile page. The exact totals and language breakdown can change as repositories and contributions change.
 
-For the contribution calendar, visit my [GitHub profile](https://github.com/5NN599). The calendar is provided by GitHub itself rather than an additional third-party graph image.
-
-## 💬 My Philosophy
+### 💬 Philosophy
 
 > Build it. Test it. Improve it.
 >
 > Stay curious. Keep experimenting. Make every signal count.
 
-<div align="center">
-
-### Thanks for stopping by!
-
-**73 de 5NN599** 📡
-
-[Explore all repositories](https://github.com/5NN599?tab=repositories)
-
-<sub>Made with curiosity, code, and a little radio spirit.</sub>
-
-</div>
-
 ---
 
 <a id="korean"></a>
 
-# 한국어
+## 🇰🇷 한국어
 
-## 📡 5NN599의 의미
+### 📡 5NN599의 의미
 
-**5NN599**는 아마추어 무선의 신호 보고 방식에서 영감을 얻은 이름입니다.
+**5NN599**는 아마추어 무선의 CW 교신 문화와 RST 신호 보고에서 가져온 이름입니다.
 
-모스 부호(CW) 교신에서는 **599**를 빠르게 전송하기 위해 **5NN**처럼 줄여 보내기도 합니다. 숫자 `9` 대신 문자 `N`을 사용하는 컷 넘버(cut number) 방식입니다. 제 닉네임은 이 CW 축약 표기와 익숙한 숫자 신호 보고를 함께 담고 있습니다.
+- **5NN**은 모스 부호 대회 교신에서 **599**를 짧게 보내는 대표적인 컷 넘버 표기입니다. 숫자 `9`를 더 짧은 문자 `N`으로 전송합니다.
+- **599**는 RST 신호 보고입니다. `R`은 가독성(Readability), `S`는 신호 강도(Signal Strength), `T`는 음조(Tone)를 뜻합니다. `T`는 CW 교신에서 사용하며, 음성 교신은 일반적으로 `RS`로 보고합니다.
 
-**RST**는 **Readability(가독성), Signal Strength(신호 강도), Tone(음질)**을 뜻합니다.
+| RST 항목 | 값 | 의미 |
+|:--:|:--:|:--|
+| **R — 가독성** | **5** | 완벽하게 알아들을 수 있음 |
+| **S — 신호 강도** | **9** | 매우 강한 신호 |
+| **T — 음조** | **9** | 리플이나 변조 흔적이 없는 완벽한 CW 음조 |
 
-| 항목 | 점수 | 의미 |
-|:---:|:---:|:--|
-| **R** | **5** | 완벽하게 알아들을 수 있음 |
-| **S** | **9** | 매우 강한 신호 |
-| **T** | **9** | 리플이나 변조 흔적이 없는 완벽한 CW 음조 |
+> 즉, `5NN`은 CW에서 `599`를 줄여 보내는 표기입니다. 별도의 신호 보고 체계가 아니라, 대회 등에서 사용하는 축약 방식입니다.
 
-`T`는 CW 교신에서 사용하는 음질 보고입니다. 음성 교신에서는 보통 `59`와 같은 **RS 보고**를 사용합니다.
+### 👋 자기소개
 
-## 👋 자기소개
+안녕하세요! **5NN599**입니다. 직접 만들고, 테스트하고, 개선하면서 기술을 탐구하는 것을 좋아합니다.
 
-안녕하세요! **5NN599**입니다.
-
-저는 아이디어를 실제로 작동하는 소프트웨어로 구현하는 것을 좋아하는 개발자입니다. Windows 프로그램과 데이터 압축부터 브라우저 게임, 오디오 통신, 로봇, 무선통신 관련 실험까지 다양한 분야를 탐구하고 있습니다.
+주요 관심 분야는 다음과 같습니다.
 
 - 💻 소프트웨어 개발과 공학적 실험
-- 📻 아마추어 무선 문화, 모스 부호(CW), 신호 보고
+- 📻 아마추어 무선, 모스 부호(CW), 무선통신
 - 🎚️ 오디오 처리, DTMF, 디지털 통신
 - 🤖 인공지능, 로봇, 자동화
-- ⚙️ 성능 최적화, 테스트, 디버깅
+- ⚙️ 성능 최적화, 디버깅, 테스트
 
-## 🚀 주요 프로젝트
+### 🚀 프로젝트
 
-| 프로젝트 | 주요 기능 | 기술 |
-|:--|:--|:--:|
-| [**HyperPack**](https://github.com/5NN599/HyperPack_windows) | 자체 HPK4 형식, 스트리밍 압축, 성능 최적화를 실험하는 Windows x64 무손실 압축 프로그램입니다. | `Go` |
-| [**PocketBox**](https://github.com/5NN599/PocketBox) | 파일과 폴더를 하나의 `.pbox` 컨테이너로 묶고, 별도로 설치된 PocketBox Launcher로 실행하는 Windows 도구입니다. 보안 샌드박스 프로그램은 아닙니다. | `Python` |
-| [**PyDTMF-ECC**](https://github.com/5NN599/PyDTMF-ECC) | DTMF와 동기화 음, CRC-16, 선택적 오류 정정(FEC)을 이용해 오디오로 텍스트와 파일을 송수신하는 Windows 프로그램입니다. | `Python` |
-| [**emoji-rpg**](https://github.com/5NN599/emoji-rpg) | 웹 브라우저에서 플레이하는 RPG 프로젝트입니다. | `HTML` |
-| [**NEON-SWARM**](https://github.com/5NN599/NEON-SWARM) | 실험적인 웹 프로젝트입니다. | `HTML` |
-| [**개인 웹사이트**](https://github.com/5NN599/5NN599.github.io) | GitHub Pages로 공개한 개인 웹사이트입니다. | `HTML` |
+| 프로젝트 | 소개 |
+|:--|:--|
+| [**HyperPack**](https://github.com/5NN599/HyperPack_windows) | 스트리밍 압축과 자체 `.hpk` 아카이브 형식을 연구하는 Windows x64 무손실 압축 프로젝트입니다. |
+| [**PocketBox**](https://github.com/5NN599/PocketBox) | Windows 프로젝트입니다. 정확한 기능, 빌드 방법, 배포 파일은 저장소와 Releases에서 확인할 수 있습니다. |
+| [**PyDTMF-ECC**](https://github.com/5NN599/PyDTMF-ECC) | DTMF 오디오 통신 프로젝트입니다. 동기화, 실시간 디코딩, 오류 정정 기능을 개발하고 있습니다. |
+| [**emoji-rpg**](https://github.com/5NN599/emoji-rpg) | 웹 브라우저 기반 RPG 프로젝트입니다. |
+| [**NEON-SWARM**](https://github.com/5NN599/NEON-SWARM) | 실험적인 프로젝트입니다. 현재 기능과 상태는 저장소 설명을 참고해 주세요. |
+| [**개인 웹사이트**](https://github.com/5NN599/5NN599.github.io) | GitHub Pages로 공개한 개인 웹사이트입니다. |
 
-> 프로젝트는 계속 개선 중입니다. 최신 기능과 배포 버전은 각 저장소에서 확인할 수 있습니다.
+<details>
+<summary><strong>🔎 프로젝트 및 배포 관련 참고</strong></summary>
 
-## 🧰 기술 및 관심 분야
+- 프로젝트의 기능과 개발 상태는 변경될 수 있습니다. 각 프로젝트의 최신 정보는 해당 저장소 README를 기준으로 확인해 주세요.
+- PocketBox의 배포 파일은 **Releases**에서 확인해 주세요. 저장소의 소스 파일과 릴리즈 패키지의 구성은 다를 수 있습니다.
+- 빌드 방법, 의존성, 라이선스, 지원 플랫폼은 각 프로젝트의 문서를 확인해 주세요.
 
-<div align="center">
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+### 🧰 기술 및 관심 분야
 
-</div>
+`Python` · `Go` · `HTML` · `CSS` · `JavaScript` · `Git` · `Windows`
 
-- 🗜️ 데이터 압축 및 자체 아카이브 형식
-- 📡 아마추어 무선, RF, 무선통신
-- 📟 모스 부호(CW), DTMF, 오디오 신호 처리
-- 🤖 인공지능, 로봇, 임베디드 시스템
-- 🌐 웹 애플리케이션 및 브라우저 게임
+**관심 있게 탐구하는 분야**
 
-## 📊 GitHub 통계
+- 데이터 압축 및 아카이브 형식
+- 아마추어 무선 및 RF 통신
+- 모스 부호(CW), DTMF, 오디오 신호 처리
+- 인공지능, 로봇, 임베디드 시스템
+- 웹 애플리케이션 및 브라우저 게임
 
-GitHub 통계 및 언어별 사용량 카드는 위 영문 섹션에 한 번만 표시했습니다. 기여 달력은 외부 그래프 이미지 대신 [GitHub 프로필](https://github.com/5NN599)에서 직접 확인할 수 있습니다.
+### 📊 GitHub 활동
 
-## 💬 개발 철학
+프로필 미리보기에서 외부 통계 카드 이미지가 정상적으로 표시되지 않아, 신뢰성을 위해 타사 통계 이미지를 넣지 않았습니다.
 
-> 만들고, 테스트하고, 개선하자.
+기여 활동, 언어 통계, 고정 저장소, 최신 공개 작업은 GitHub 프로필에서 확인할 수 있습니다.
+
+**[5NN599 GitHub 프로필 보기](https://github.com/5NN599)**
+
+GitHub 프로필 페이지에는 GitHub 자체 기여 달력이 표시됩니다. 기여 수와 언어 비율은 저장소와 활동에 따라 바뀔 수 있습니다.
+
+### 💬 개발 철학
+
+> 만들고. 테스트하고. 개선하자.
 >
 > 호기심을 잃지 말고 계속 실험하자. 모든 신호에 의미를 담자.
 
-<div align="center">
+---
 
-### 방문해 주셔서 감사합니다!
+<div align="center">
 
 **73 de 5NN599** 📡
 
-[모든 저장소 둘러보기](https://github.com/5NN599?tab=repositories)
-
-<sub>호기심과 코드, 그리고 약간의 무선통신 감성으로 만들었습니다.</sub>
+[GitHub Repositories](https://github.com/5NN599?tab=repositories)
 
 </div>
